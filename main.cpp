@@ -21,3 +21,5 @@ void drawCharSquare(char **square, int n)
 {
 
 }
+
+//12345
